@@ -1,0 +1,13 @@
+overviewSection: >-
+  # h1
+  # h2
+  [some link](https://www.google.com)
+faqSection:
+  overview: >-
+    more __markdown__
+  blocks:
+    - title: non-markdown string
+      copy: >-
+        # h1
+        # h2
+        [some link](https://www.google.com)
